@@ -1,1 +1,1 @@
-# cssodev2
+# CSS Ödev2 [Patika.dev](https://academy.patika.dev/tr/paths)
