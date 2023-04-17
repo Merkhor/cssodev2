@@ -1,0 +1,51 @@
+.bg {
+    background-color: #EEEEEE;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-bottom: 3px;
+}
+
+.container {
+    background-color: #70CCC2;
+    float: left;
+    padding-left: 70px;
+    padding-right: 70px;
+    margin-top: 0px;
+    margin-left: 4px;
+    padding-top: 6px;
+    padding-bottom: 5px;
+}
+
+
+.fs-med {
+    font-size: 21px;
+}
+
+.btn1 {
+    padding: 6px;
+}
+
+.bg2 {
+    background-color: #7EE5DA;
+    float: left;
+    padding-right: 200px;
+    padding-left: 200px;
+    margin-left: 8%;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.bg3 {
+    margin-block-start: 120px;
+}
+
+.bg4 {
+    background-color: #62B3AA;
+    float: left;
+    margin-left: 2px;
+    padding-left: 233px;
+    padding-right: 233px;
+    padding-top: 6px;
+    padding-bottom: 4px;
+    
+}
